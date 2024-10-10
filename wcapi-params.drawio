@@ -62,7 +62,7 @@
           <mxGeometry x="10" y="400" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pTpurYOFqZptKJMPXHJo-28" value="&lt;div align=&quot;left&quot;&gt;encrypt, decrypt, wrapKey, unwrapKey&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="520" width="200" height="40" as="geometry" />
+          <mxGeometry x="10" y="520" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pTpurYOFqZptKJMPXHJo-29" value="RSA-PSS Params" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="570" width="200" height="70" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry x="11" y="40" width="159" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pTpurYOFqZptKJMPXHJo-32" value="&lt;div&gt;sign, verify&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="10" y="640" width="200" height="30" as="geometry" />
+          <mxGeometry x="10" y="640" width="200" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
